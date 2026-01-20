@@ -2,6 +2,7 @@
   "name": "my-web-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Micchila/reactfinal.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
